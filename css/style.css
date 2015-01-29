@@ -21,6 +21,9 @@ src:url("fonts/BYekan.ttf") format("truetype") ,
 font-weight:normal;  
 }  
 
+button {
+	direction: rtl;
+}
 h2,h3,p,a,strong,h4,button {
 	font-family:BYekan,'BYekan''B yekan',tahoma, Arial;  
 }
