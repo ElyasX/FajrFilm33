@@ -76,3 +76,7 @@ a {
 .btn-default {
 	font-size: 15px;
 }
+
+.nav>li>a {
+	padding: 10px 12px !important;
+}
